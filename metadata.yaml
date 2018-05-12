@@ -1,0 +1,31 @@
+_repo: The-Maine-WoodsThe-Writings-of-Henry-David-Thoreau-Volume-III--of-20-_42500
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Thoreau, Henry David
+    alias: Thoreau, Henry D. (Henry David)
+    birthdate: 1817
+    deathdate: 1862
+    gutenberg_agent_id: '54'
+    url: http://www.gutenberg.org/2009/agents/54
+    wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
+description: ''
+gutenberg_issued: '2013-04-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42500'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F001'
+- !lcsh 'Piscataquis County (Me.) -- Description and travel'
+- !lcsh 'Authors, American -- 19th century -- Biography'
+- !lcsh 'Maine -- Description and travel'
+- !lcsh 'Thoreau, Henry David, 1817-1862 -- Travel -- Maine'
+title: "The Maine Woods\r\nThe Writings of Henry David Thoreau, Volume 03 (of 20)"
+url: http://www.gutenberg.org/ebooks/42500
