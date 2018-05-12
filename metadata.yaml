@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/54
     wikipedia: http://en.wikipedia.org/wiki/Henry_David_Thoreau
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42500#The-Maine-WoodsThe-Writings-of-Henry-David-Thoreau-Volume-III--of-20-
 gutenberg_issued: '2013-04-09'
 gutenberg_type: Text
 identifiers:
